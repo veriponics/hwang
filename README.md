@@ -2,7 +2,7 @@
 
 <details open>
   <summary>Table of Contents</summary>
-  <br>1. [About This Project](#about this project)</br>
+  <br>1. [About This Project](#aboutthisproject)</br>
   
 </details>
 
